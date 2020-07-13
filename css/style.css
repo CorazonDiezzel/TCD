@@ -1,0 +1,9 @@
+.bg-login-page{
+    background-image: url(../img/images/microsoft-surface-studio-2-6010-1920x1280-blueish.jpg);
+}
+
+.bg-register-page{
+    background-image: url(../img/images/computers-and-technology-4-blueish.jpg);
+    background-position: center;
+    background-size: cover;
+}
